@@ -1,0 +1,6 @@
+require('helpers.autocmds')
+require('helpers.git')
+require('helpers.invisible_characters')
+require('helpers.keymaps')
+require('helpers.string')
+require('helpers.templates')

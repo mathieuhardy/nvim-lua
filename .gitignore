@@ -1,0 +1,6 @@
+config.lua
+lazy-lock.json
+
+backup/
+sessions/
+undo/
